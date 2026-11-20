@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">WaterReminder</string>
+    <string name="splash_slogan">Votre hydratation, maîtrisée.</string>
+    <string name="logo_content_description">WaterReminder logo représentant une goutte d eau stylisée</string>
+    <string name="onboarding_skip">Passer</string>
+    <string name="onboarding_next">Suivant</string>
+    <string name="onboarding_start">Commencer</string>
+    <string name="onboarding_title_1">Suivez votre hydratation</string>
+    <string name="onboarding_desc_1">Enregistrez facilement la quantité d’eau que vous buvez chaque jour.</string>
+    <string name="onboarding_title_2">Atteignez vos objectifs</string>
+    <string name="onboarding_desc_2">Définissez votre objectif quotidien et visualisez votre progression.</string>
+    <string name="onboarding_title_3">Recevez des rappels</string>
+    <string name="onboarding_desc_3">WaterReminder vous rappelle de boire de l’eau au bon moment.</string>
+
+    <string name="login_title">Bienvenue sur WaterReminder</string>
+    <string name="register_title">Créer votre compte</string>
+    <string name="hint_email">Adresse email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_confirm_password">Confirmer le mot de passe</string>
+    <string name="hint_name">Nom d’utilisateur</string>
+    <string name="hint_birthdate">Date de naissance (JJ/MM/AAAA)</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_register">Créer mon compte</string>
+    <string name="link_to_register">Vous n’avez pas encore de compte ? Créer un compte</string>
+    <string name="link_to_login">Vous avez déjà un compte ? Se connecter</string>
+    <string name="btn_logout">Se déconnecter</string>
+    <string name="welcome_message">Bienvenue dans WaterReminder</string>
+    <string name="login_success">Connexion réussie</string>
+    <string name="register_success">Compte créé avec succès ! Veuillez vous connecter.</string>
+    <string name="error_empty_email">Veuillez saisir votre adresse email.</string>
+    <string name="error_invalid_email">Veuillez saisir un email valide.</string>
+    <string name="error_empty_password">Veuillez saisir votre mot de passe.</string>
+    <string name="error_short_password">Le mot de passe doit contenir au moins 6 caractères.</string>
+    <string name="error_password_mismatch">Les mots de passe ne correspondent pas.</string>
+    <string name="error_empty_name">Veuillez saisir votre nom.</string>
+    <string name="error_short_name">Le nom doit contenir au moins 2 caractères.</string>
+    <string name="error_empty_birthdate">Veuillez sélectionner votre date de naissance.</string>
+    <string name="error_under_age">Vous devez avoir plus de 18 ans pour créer un compte.</string>
+    <string name="error_invalid_credentials">Email ou mot de passe incorrect.</string>
+    <string name="error_email_already_exists">Cet email est déjà utilisé.</string>
+
+    <string name="tab_home">Accueil</string>
+    <string name="tab_goals">Objectifs</string>
+    <string name="tab_tips">Conseils</string>
+    <string name="tab_account">Compte</string>
+
+    <string name="dashboard_title">Tableau de bord</string>
+    <string name="dashboard_welcome">Bonjour, bienvenue sur WaterReminder</string>
+    <string name="today_consumption">Vous avez bu aujourd’hui</string>
+    <string name="goal_label">Objectif : 2.0 L</string>
+    <string name="progress_text">75 % de l’objectif atteint</string>
+    <string name="msg_coming_soon">L’ajout de consommation sera disponible prochainement.</string>
+
+    <string name="goals_title">Objectifs</string>
+    <string name="daily_goal_card">Objectif quotidien</string>
+    <string name="btn_save_goal">Enregistrer l’objectif</string>
+    <string name="goal_saved_success">Objectif enregistré avec succès.</string>
+    <string name="goals_history">Historique des objectifs</string>
+    <string name="history_item_1">Hier : 2.0 L (Atteint)</string>
+    <string name="history_item_2">Il y a 2 jours : 1.8 L</string>
+    <string name="history_item_3">Il y a 3 jours : 2.0 L (Atteint)</string>
+
+    <string name="tips_title">Conseils d’hydratation</string>
+    <string name="tip_1">Buvez un verre d’eau avant chaque repas.</string>
+    <string name="tip_2">Gardez une bouteille d’eau près de vous.</string>
+    <string name="tip_3">Buvez régulièrement pendant la journée.</string>
+    <string name="tip_4">Augmentez votre consommation pendant les journées chaudes.</string>
+    <string name="articles_videos">Articles et vidéos</string>
+    <string name="article_1">Guide complet de l’hydratation saine</string>
+    <string name="article_2">Pourquoi l’eau améliore votre énergie</string>
+    <string name="btn_share_tip">Partager un conseil</string>
+    <string name="share_title">Partager un conseil WaterReminder</string>
+    <string name="share_text">Conseil d’hydratation : Buvez régulièrement pendant la journée avec WaterReminder !</string>
+
+    <string name="account_title">Mon compte</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="notifications_label">Notifications</string>
+    <string name="edit_goal_label">Modifier l’objectif quotidien</string>
+    <string name="logout_dialog_title">Déconnexion</string>
+    <string name="logout_dialog_message">Voulez-vous vraiment vous déconnecter ?</string>
+    <string name="dialog_cancel">Annuler</string>
+    <string name="dialog_confirm">Oui</string>
+</resources>
